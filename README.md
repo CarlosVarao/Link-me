@@ -10,7 +10,7 @@
     </div>
 
     <div align="center" style="display: inline_block"><br>
-      <img align="center" alt="clone-discord" src="Assets/linkme.pn"/>
+      <img align="center" alt="clone-discord" src="Assets/linkme.png"/>
     </div>
 </div>
 
